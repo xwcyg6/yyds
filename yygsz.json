@@ -39,6 +39,16 @@
       "changeable": 1,
       "timeout": 60
     },
+    {
+      "key": "drpy_js_酷吧",
+      "name": "酷吧[js]|磁",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xwcyg6/yyds/main/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/xwcyg6/yyds/main/lib/kuba.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
   {
       "key": "drpy_js_360影视",
       "name": "官源 | 360[js]",
