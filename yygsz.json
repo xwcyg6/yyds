@@ -12,17 +12,6 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E8%B1%86%E7%93%A3.js"
     },
-   {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
-      "api": "csp_Panda",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "https://github.com/xwcyg6/yyds/blob/main/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
-    },
     {
       "key": "drpy_js_荐片",
       "name": "荐片 | 影视[js]",
