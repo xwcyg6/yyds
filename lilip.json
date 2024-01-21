@@ -1,5 +1,5 @@
 {
-  "spider": "./ad_custom_spider.jar;md5;",
+  "spider": "./custom_spider.jar;md5;",
   "lives": [
     {
       "name": "live",
@@ -12,16 +12,16 @@
   ],
   "sites": [
     {
-      "key": "¶¹°ê",
-      "name": "¶¹°ê",
+      "key": "è±†ç“£",
+      "name": "è±†ç“£",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1
     },
     {
-      "key": "996Ó°Ôº",
-      "name": "996Ó°Ôº",
+      "key": "996å½±é™¢",
+      "name": "996å½±é™¢",
       "type": 3,
       "api": "csp_Cs1369",
       "searchable": 1,
@@ -29,8 +29,8 @@
       "timeout": 30
     },
     {
-      "key": "ĞÂ6V",
-      "name": "ĞÂ6V",
+      "key": "æ–°6V",
+      "name": "æ–°6V",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -38,8 +38,8 @@
       "timeout": 30
     },
     {
-      "key": "ÍæÅ¼µ¯Ä»°æ",
-      "name": "ÍæÅ¼¸ç¸ç",
+      "key": "ç©å¶å¼¹å¹•ç‰ˆ",
+      "name": "ç©å¶å“¥å“¥",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -53,8 +53,8 @@
       "timeout": 30
     },
     {
-      "key": "ÔËÊä³µµ¯Ä»°æ",
-      "name": "ÔËÊä³µ",
+      "key": "è¿è¾“è½¦å¼¹å¹•ç‰ˆ",
+      "name": "è¿è¾“è½¦",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -69,8 +69,8 @@
       "timeout": 30
     },
     {
-      "key": "ÍæÅ¼±í¸çµ¯Ä»",
-      "name": "ÍæÅ¼±í¸ç",
+      "key": "ç©å¶è¡¨å“¥å¼¹å¹•",
+      "name": "ç©å¶è¡¨å“¥",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -97,8 +97,8 @@
       "timeout": 30
     },
     {
-      "key": "¼öÆ¬µ¯Ä»°æ",
-      "name": "¼öÆ¬",
+      "key": "èç‰‡å¼¹å¹•ç‰ˆ",
+      "name": "èç‰‡",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -110,8 +110,8 @@
       "timeout": 30
     },
     {
-      "key": "Äà°Íµ¯Ä»°æ",
-      "name": "Äà°Í",
+      "key": "æ³¥å·´å¼¹å¹•ç‰ˆ",
+      "name": "æ³¥å·´",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -123,7 +123,7 @@
     },
     {
       "key": "csp_QuPanSou",
-      "name": "È¤ÅÌËÑ",
+      "name": "è¶£ç›˜æœ",
       "type": 3,
       "api": "csp_QuPanSou",
       "searchable": 1,
@@ -137,7 +137,7 @@
     },
     {
       "key": "csp_Qkpanso",
-      "name": "¿ä¿ËÅÌËÑ",
+      "name": "å¤¸å…‹ç›˜æœ",
       "type": 3,
       "api": "csp_Qkpanso",
       "searchable": 1,
@@ -150,8 +150,8 @@
       "timeout": 30
     },
     {
-      "key": "Ö½Ìõ",
-      "name": "Ö½Ìõ",
+      "key": "çº¸æ¡",
+      "name": "çº¸æ¡",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -164,8 +164,8 @@
       "timeout": 30
     },
     {
-      "key": "ÅÌSe",
-      "name": "ÅÌSe",
+      "key": "ç›˜Se",
+      "name": "ç›˜Se",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -178,8 +178,8 @@
       "timeout": 30
     },
     {
-      "key": "ÕÒÙYÔ´",
-      "name": "ÕÒÙYÔ´",
+      "key": "æ‰¾è³‡æº",
+      "name": "æ‰¾è³‡æº",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -194,8 +194,8 @@
       "timeout": 30
     },
     {
-      "key": "ÆßÒ¹",
-      "name": "ÆßÒ¹",
+      "key": "ä¸ƒå¤œ",
+      "name": "ä¸ƒå¤œ",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -208,8 +208,8 @@
       "timeout": 30
     },
     {
-      "key": "ÅÌËÑ",
-      "name": "ÅÌËÑ",
+      "key": "ç›˜æœ",
+      "name": "ç›˜æœ",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -222,8 +222,8 @@
       "timeout": 30
     },
     {
-      "key": "Ò×ËÑ",
-      "name": "Ò×ËÑ",
+      "key": "æ˜“æœ",
+      "name": "æ˜“æœ",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -237,8 +237,8 @@
       "timeout": 30
     },
     {
-      "key": "UpÔÆËÑ",
-      "name": "UpÔÆËÑ",
+      "key": "Upäº‘æœ",
+      "name": "Upäº‘æœ",
       "type": 3,
       "api": "csp_Upys",
       "searchable": 1,
@@ -251,8 +251,8 @@
       "timeout": 30
     },
     {
-      "key": "ÔÆÅÌ4K",
-      "name": "ÔÆÅÌ",
+      "key": "äº‘ç›˜4K",
+      "name": "äº‘ç›˜",
       "type": 3,
       "api": "csp_Yunpan4k",
       "searchable": 1,
@@ -265,8 +265,8 @@
       "timeout": 30
     },
     {
-      "key": "ÅäÖÃÖĞĞÄ",
-      "name": "ÅäÖÃÖĞĞÄ",
+      "key": "é…ç½®ä¸­å¿ƒ",
+      "name": "é…ç½®ä¸­å¿ƒ",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -278,7 +278,7 @@
     },
     {
       "key": "push_agent",
-      "name": "ÍÆËÍ",
+      "name": "æ¨é€",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -302,8 +302,8 @@
       "timeout": 30
     },
     {
-      "key": "¶Ì¾ç",
-      "name": "¶Ì¾ç",
+      "key": "çŸ­å‰§",
+      "name": "çŸ­å‰§",
       "type": 3,
       "api": "csp_Duanju",
       "searchable": 1,
@@ -315,8 +315,8 @@
       "timeout": 30
     },
     {
-      "key": "¿´Çò",
-      "name": "¿´Çò",
+      "key": "çœ‹çƒ",
+      "name": "çœ‹çƒ",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 1,
@@ -327,8 +327,8 @@
       "timeout": 30
     },
     {
-      "key": "¿ìÊÖÖ±²¥",
-      "name": "¿ìÊÖ",
+      "key": "å¿«æ‰‹ç›´æ’­",
+      "name": "å¿«æ‰‹",
       "type": 3,
       "api": "csp_KsLive",
       "searchable": 0,
@@ -341,7 +341,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "ßÙÁ¨",
+      "name": "å“”å“©",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -371,7 +371,7 @@
     },
     {
       "key": "lf_js_lf_live",
-      "name": "Ö±²¥",
+      "name": "ç›´æ’­",
       "type": 3,
       "api": "./lib/lf_live_min.js",
       "style": {
@@ -384,8 +384,8 @@
       "ext": "./js/lf_live.txt"
     },
     {
-      "key": "Ó¦ÓÃÉÌµê",
-      "name": "Ó¦ÓÃÉÌµê",
+      "key": "åº”ç”¨å•†åº—",
+      "name": "åº”ç”¨å•†åº—",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -399,17 +399,17 @@
   ],
   "parses": [
     {
-      "name": "Json¾ÛºÏ",
+      "name": "Jsonèšåˆ",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "Web¾ÛºÏ",
+      "name": "Webèšåˆ",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "·ÉÔÆ",
+      "name": "é£äº‘",
       "type": 1,
       "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
       "ext": {
@@ -418,22 +418,22 @@
           "mgtv",
           "qiyi",
           "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "pptv",
           "PPTV",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "leshi",
           "bilibili",
-          "ßÙÁ¨ßÙÁ¨",
-          "ßÙÁ¨",
+          "å“”å“©å“”å“©",
+          "å“”å“©",
           "mgtv",
-          "Ã¢¹û"
+          "èŠ’æœ"
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
@@ -441,25 +441,25 @@
       }
     },
     {
-      "name": "·¹·¹",
+      "name": "é¥­é¥­",
       "type": 1,
-      "url": "http://api.888484.xyz/ÉñÃØ¸ç¸ç/super.php?v=",
+      "url": "http://api.888484.xyz/ç¥ç§˜å“¥å“¥/super.php?v=",
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "tucheng",
           "sohu",
-          "ËÑºü",
+          "æœç‹",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "tnmb",
           "seven",
           "yzm",
@@ -476,24 +476,24 @@
       }
     },
     {
-      "name": "ÏºÃ×",
+      "name": "è™¾ç±³",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
-          "ÌÚÑ¶",
+          "è…¾è®¯",
           "qiyi",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
+          "çˆ±å¥‡è‰º",
+          "å¥‡è‰º",
           "youku",
-          "ÓÅ¿á",
+          "ä¼˜é…·",
           "sohu",
-          "ËÑºü",
+          "æœç‹",
           "letv",
-          "ÀÖÊÓ",
+          "ä¹è§†",
           "mgtv",
-          "Ã¢¹û",
+          "èŠ’æœ",
           "imgo",
           "rx",
           "ltnb",
@@ -509,7 +509,7 @@
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "¿´¿´",
+      "name": "çœ‹çœ‹",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     }
