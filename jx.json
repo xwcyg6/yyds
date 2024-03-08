@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./花千骨.jar",
+  "spider": "./jar/花千骨.jar",
   "lives": [
     {
       "key": "drpy_js_豆瓣",
