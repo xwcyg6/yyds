@@ -385,7 +385,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./biliext/Bili短剧.json"
+      "ext": "./json/Bili短剧.json"
     },
     {
       "key": "csp_短剧网",
