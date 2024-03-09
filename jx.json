@@ -400,7 +400,7 @@
       "key": "csp_XYQHiker_农民影视",
       "name": "🧑🏻‍农民影视(HM2)",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "./花千骨.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
