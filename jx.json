@@ -396,15 +396,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_XYQHiker_农民影视",
-      "name": "🧑🏻‍农民影视(HM2)",
+   {
+      "key": "csp_Nmys",
+      "name": "🌾┃农民┃影视",
       "type": 3,
-      "api": "./花千骨.jar",
+      "api": "csp_Nmys",
+      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/农民影视.json"
+      "ext": "https://m.emsdn.cn"
     },
     {
       "key": "csp_XYQHiker_996影视",
