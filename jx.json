@@ -150,6 +150,18 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
+     {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "玩偶👽臻享4K",
+      "api": "csp_Wogg",
+      "jar": "./jar/PandaQ240216.jar",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
       "name": "📀玩偶妹妹(优)",
