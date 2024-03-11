@@ -198,6 +198,17 @@
       "api": "http://cc.xzam.cn/api.php/provide/vod/"
     },
     {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.serv00.net/power/ub1818",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+},
+    {
       "key": "csp_New6v",
       "name": "🧲新6V",
       "type": 3,
