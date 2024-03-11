@@ -61,11 +61,12 @@
       "name": "📺央视大全",
       "type": 3,
       "api": "csp_CCTV",
+       "jar": "./jar/cctv.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
       "ext": "./json/央视大全.json",
-      "jar": "./jar/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5"},
+      
     {
       "key": "火狐",
       "name": "🦊茶杯狐",
