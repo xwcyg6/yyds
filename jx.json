@@ -67,17 +67,6 @@
       "ext": "./json/央视大全.json",
       "jar": "./jar/cctv.jar",
     },
-      {
-      "key": "ysjd",
-      "name": "🎈 央视┃经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/央视经典.json"
-      "jar": "./jar/cctv.jar",
-    },
     {
       "key": "火狐",
       "name": "🦊茶杯狐",
