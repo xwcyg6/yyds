@@ -39,6 +39,17 @@
       "api": "./js/lf_search3_min.js"
     },
     {
+      "key": "lf_js_p2p",
+      "name": "路飞 | 磁力[js]",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/lf_p2p2_min.js",
+      "timeout": 30
+    },
+    {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
