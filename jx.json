@@ -560,6 +560,116 @@
       "filterable": 1,
       "ext": "./json/软件教程.json"
     },
+     {
+      "key": "车模",
+      "name": "💃哔哩车模",
+      "type": 3,
+      "api": "csp_Bili",
+       "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩车模.json"
+    },
+     {
+      "key": "舞蹈",
+      "name": "🎗️哔哩舞蹈",
+      "type": 3,
+      "api": "csp_Bili",
+       "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩舞蹈.json"
+    },
+      {
+      "key": "PS",
+      "name": "🎉PS教程",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩PS.json"
+    },
+     {
+      "key": "外语",
+      "name": "🏠外语学堂",
+      "type": 3,
+      "api": "csp_Bili",
+       "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩外语.json"
+    },
+     {
+      "key": "EXCEL",
+      "name": "🏢Excel学堂",
+      "type": 3,
+      "api": "csp_Bili",
+        "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩Excel教程.json"
+    },
+      {
+      "key": "学堂",
+      "name": "🍉学堂教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩学堂.json"
+    },
+       {
+      "key": "UP主",
+      "name": " 🖤UP主机",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩UP主.json"
+    },
+    {
+      "key": "足球",
+      "name": "⚽️足球合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩球星.json"
+    },
+      {
+      "key": "体育",
+      "name": "💋哔哩体育",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩体育.json"
+    },
+      {
+      "key": "球类",
+      "name": "⚽️球球合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩球球.json"
+    },
     {
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
