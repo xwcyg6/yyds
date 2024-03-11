@@ -451,7 +451,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./biliext/高中课堂.json"
+      "ext": "./json/高中课堂.json"
     },
     {
       "key": "JS哔哩直播",
