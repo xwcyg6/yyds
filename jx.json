@@ -64,13 +64,12 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E5%8D%97%E7%93%9C.js"
     },
-      {
-      "key": "FREE1OK",
-      "name": "️️👌┃Fre┃影视",
+     {
+      "key": "csp_Freeok",
+      "name": "️️👌┃FreeOK┃影视",
       "type": 3,
       "playerType": "1",
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/FreeOK.js"
+      "api": "csp_Freeok"
     },
     {
       "key": "drpy_js_大师兄影视",
