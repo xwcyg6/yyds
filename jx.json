@@ -57,6 +57,22 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
     {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E5%8D%97%E7%93%9C.js"
+    },
+      {
+      "key": "FREE1OK",
+      "name": "️️👌┃Fre┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/FreeOK.js"
+    },
+    {
       "key": "Gitcafe",
       "name": "📀小纸条(搜索)",
       "type": 3,
