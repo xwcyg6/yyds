@@ -500,7 +500,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/996影视.json"
+      "ext": "./json/996影视.json"
     },
     {
       "key": "csp_XYQBiu_88看球",
@@ -550,7 +550,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./XYQHiker/斗鱼直播.json"
+      "ext": "./json/斗鱼直播.json"
     },
     {
       "key": "csp_XYQBiu_网易CC直播",
