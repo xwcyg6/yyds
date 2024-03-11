@@ -670,6 +670,17 @@
       "filterable": 1,
       "ext": "./json/哔哩球球.json"
     },
+     {
+      "key": "解说",
+      "name": "⚽️电影解说",
+      "type": 3,
+      "api": "csp_Bili",
+       "jar": "./jar/fm.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩影视解说.json"
+    },
     {
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
