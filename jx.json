@@ -133,13 +133,15 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E5%8D%97%E7%93%9C.js"
     },
-     {
-      "key": "csp_Freeok",
-      "name": "👌┃FreeOK┃影视",
+       {
+      "key": "csp_CandyMuj_freeok",
+      "name": "💖FreeOK",
       "type": 3,
-      "playerType": "1",
-       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy6.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/FreeOK.js"
+      "api": "csp_CandyMuj_freeok",
+       "jar": "./jar/candymuj.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
     },
   {
       "key": "大师兄",
