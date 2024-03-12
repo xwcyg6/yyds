@@ -143,6 +143,16 @@
       "quickSearch": 0,
       "filterable": 1
     },
+     {
+      "key": "csp_CandyMuj_yinfans",
+      "name": "💖音范丝4K(磁力)",
+      "type": 3,
+      "api": "csp_CandyMuj_yinfans",
+       "jar": "./jar/candymuj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
   {
       "key": "大师兄",
       "name": "大师兄🎉影视",
