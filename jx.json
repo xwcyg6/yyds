@@ -248,6 +248,28 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
+      "key": "玩我哥哥",
+      "name": "🎦玩我|哥哥",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/玩我哥哥.json"
+    },
+       {
+      "key": "玩偶运输车",
+      "name": "🎦玩偶运输车",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/玩偶运输车.json"
+    },
+    {
       "key": "csp_XYQHikerAL_玩偶妹妹",
       "name": "📀玩偶妹妹(优)",
       "type": 3,
@@ -293,6 +315,72 @@
       "jar": "./jar/小胡.jar",
       "playerType": 3,
       "api": "http://cc.xzam.cn/api.php/provide/vod/"
+    },
+     {
+      "key": "csp_星辰",
+      "name": "🎦星辰┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/xcys.json"
+    },
+     {
+      "key": "csp_xBPQ_疯狗",
+      "name": "🎦疯狗┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/fgys.json"
+    },
+     {
+      "key": "农民影视",
+      "name": "🎦农民┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nongmin.json"
+    },
+    {
+      "key": "奈飞影视",
+      "name": "🎦鸭奈飞┃秒播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+       "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/ynfys.json"
+    },
+    {
+      "key": "奈飞中文",
+      "name": "🎦奈飞┃秒播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nfzw.json"
+    },
+        {
+      "key": "csp_视觉",
+      "name": "🎦视觉┃2K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/xinshijue.json"
     },
     {
             "key": "T4-安博",
