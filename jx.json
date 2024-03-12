@@ -143,15 +143,16 @@
       "quickSearch": 0,
       "filterable": 1
     },
-     {
-      "key": "csp_CandyMuj_yinfans",
-      "name": "💖音范丝4K(磁力)",
+   {
+      "key": "csp_CandyMuj_netflixgc",
+      "name": "💖奈飞工厂",
       "type": 3,
-      "api": "csp_CandyMuj_yinfans",
-       "jar": "./jar/candymuj.jar",
+      "api": "csp_CandyMuj_netflixgc",
+     "jar": "./jar/candymuj.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/netflixgc.json"
     },
   {
       "key": "大师兄",
