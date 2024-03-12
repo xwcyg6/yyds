@@ -372,12 +372,12 @@
       "filterable": 1,
       "ext": "./json/nfzw.json"
     },
-        {
-      "key": "csp_视觉",
-      "name": "🎦视觉┃2K",
+      {
+      "key": "新视觉影院",
+      "name": "视觉🔥影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/ttkx.jar",
+      "jar": "./jar/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
