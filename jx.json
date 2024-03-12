@@ -49,6 +49,20 @@
       "api": "./js/lf_p2p2_min.js",
       "timeout": 30
     },
+     {
+      "key": "lf_js_lf_live",
+      "name": "电视 | 直播[js]",
+      "type": 3,
+      "api": "./lib/lf_live_min.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/lf_live.txt"
+    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
