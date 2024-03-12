@@ -225,6 +225,15 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
+      {
+      "key": "Fangniu4k",
+      "name": "放牛4K",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/fangniu.jar"
+    },
   {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "📀玩偶哥哥(优)",
