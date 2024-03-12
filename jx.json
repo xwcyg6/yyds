@@ -829,7 +829,89 @@
       "filterable": 0,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js"
     },
+       {
+      "key": "js_i275听书",
+      "name": "📚️听书┃i275",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/i275.js"
+    },
     {
+      "key": "js_博看听书",
+      "name": "📚️听书┃博看",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/bokan.js"
+    },
+     {
+      "key": "js_海洋听书",
+      "name": "📚️听书┃海洋",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/sea.js"
+    },
+        {
+      "key": "js_六月听书",
+      "name": "📚️听书┃六月",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/6yue.js"
+    },
+    {
+      "key": "js_听书网",
+      "name": "📚️听书┃天天",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/tingshu.js"
+    },
+        {
+      "key": "js_中华听书网",
+      "name": "📚️听书┃中华",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./lib/zhonghua.js"
+    },
+       {
+      "key": "js_a8音乐",
+      "name": "🎸A8音乐",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/a8yy.js"
+    },
+ {
       "key": "DRJS_虎牙",
       "name": "虎牙直播(JS)",
       "type": 3,
