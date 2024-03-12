@@ -247,16 +247,16 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
-    {
-      "key": "玩我哥哥",
-      "name": "🎦玩我|哥哥",
+  {
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "苏苏🛰️臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
+      "jar": "https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/玩我哥哥.json"
+      "ext": "https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
     },
    {
       "key": "csp_XYQHikerAL_影视车弟弟",
