@@ -53,7 +53,7 @@
       "key": "lf_js_lf_live",
       "name": "电视 | 直播[js]",
       "type": 3,
-      "api": "./lib/lf_live_min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/lib/lf_live_min.js",
       "style": {
         "type": "oval"
       },
@@ -61,7 +61,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/lf_live.txt"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/lf_live.txt"
     },
     {
       "key": "drpy_js_奇珍异兽",
