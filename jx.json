@@ -258,16 +258,16 @@
       "filterable": 1,
       "ext": "./json/玩我哥哥.json"
     },
-       {
-      "key": "玩偶运输车",
-      "name": "🎦玩偶运输车",
+   {
+      "key": "csp_XYQHikerAL_影视车弟弟",
+      "name": "影视车🚛臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "./jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/玩偶运输车.json"
+      "ext": "./json/yingshiche.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
