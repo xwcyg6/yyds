@@ -101,6 +101,27 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
+      {
+      "key": "cctv",
+      "name": "📺央视｜大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "jar": "./jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "./json/央视大全.json"
+    },
+     {
+      "key": "央视经典",
+      "name": "📺央视｜经典",
+      "type": 3,
+      "api": "csp_Bili",
+       "jar": "./jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/哔哩经典.json"
+    },
     {
       "key": "火狐",
       "name": "🦊茶杯狐",
