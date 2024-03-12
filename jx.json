@@ -18,6 +18,16 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/%E8%B1%86%E7%93%A3.js"
     },
+     {
+      "key": "csp_KungFu404",
+      "name": "🌥️┃Open原画┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "jar": "./jar/alibaba.jar",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
     {
       "key": "csp_LocalFile",
       "name": "💻本地视频",
@@ -143,16 +153,6 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy6.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/dashixiong.js",
       "timeout": 15
-    },
-     {
-      "key": "csp_KungFu404",
-      "name": "🌥️┃Open原画┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "jar": "./jar/alibaba.jar",
-      "searchable": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "Gitcafe",
