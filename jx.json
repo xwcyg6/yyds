@@ -165,6 +165,16 @@
       "filterable": 1,
       "ext": "./json/蛋蛋影视.json"
     },
+       {
+      "key": "yqkan1",
+      "name": "1️⃣一起",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "公众号:影视资源站"
+    },
     {
       "key": "火狐",
       "name": "🦊茶杯狐",
