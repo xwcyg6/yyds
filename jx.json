@@ -371,6 +371,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+       {
+      "key": "Bdys",
+      "name": "💧哔嘀┃影视",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "changeable": 1
+    },
       {
       "key": "地瓜",
       "name": "地瓜🍺超清",
