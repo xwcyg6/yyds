@@ -102,6 +102,16 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
       {
+      "key": "秒播影院",
+      "name": "秒播🍓影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/miaobo.json"
+    },
+      {
       "key": "cctv",
       "name": "📺央视｜大全",
       "type": 3,
