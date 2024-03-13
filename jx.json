@@ -1,6 +1,15 @@
 ﻿{
   "spider": "./花千骨.jar",
   "lives": [
+       {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "FMM_IPV6",
       "type": "0",
