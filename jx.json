@@ -110,6 +110,13 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
+    {
+      "key": "搜狗2",
+      "name": " 搜狗┃官源 ",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/caigou.js"
+    },
       {
       "key": "秒播影院",
       "name": "秒播🍓影院",
@@ -120,6 +127,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/miaobo.json"
+    },
+      {
+      "key": "好趣网",
+      "name": "电视┃频道",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "ext": "./js/好趣网.js"
     },
       {
       "key": "cctv",
@@ -933,6 +947,14 @@
       "filterable": 1,
       "ext": "./json/哔哩影视解说.json"
     },
+       {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "FM┃蜻蜓",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "changeable": 0,
+      "ext": "./js/蜻蜓FM.js"
+    },
     {
       "key": "drpy_js_有声小说吧",
       "name": "有声小说吧",
@@ -1008,13 +1030,13 @@
       "key": "js_中华听书网",
       "name": "📚️听书┃中华",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "api": "./drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://github.moeyy.xyz/http://github.com/xwcyg6/yyds/blob/main/js/zhonghua.js"
+      "ext": "./js/zhonghua.js"
     },
        {
       "key": "js_a8音乐",
