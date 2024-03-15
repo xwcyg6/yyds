@@ -979,6 +979,14 @@
       "changeable": 0,
       "ext": "./js/蜻蜓FM.js"
     },
+     {
+      "key": "drpy_js_广播迷FM",
+      "name": "FM┃广播迷",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "changeable": 0,
+      "ext": "./js/广播迷FM.js"
+    },
     {
       "key": "drpy_js_有声小说吧",
       "name": "有声小说吧",
