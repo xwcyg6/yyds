@@ -121,8 +121,10 @@
       "key": "csp_可可",
       "name": "可可影视",
       "type": 3,
+      "playerType": 2,
+      "searchable": 1
       "api": "csp_XBPQ",
-       "jar": "./jar/Aoki.jar",
+       "jar": "./jar/XBPQ.jar",
       "ext": "./json/keke.json"
     },
       {
