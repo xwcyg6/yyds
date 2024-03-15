@@ -381,6 +381,17 @@
       "filterable": 1,
       "ext": "./json/yingshiche.json"
     },
+    {
+      "key": "美妞_开心玩偶",
+      "name": "开心🍹臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/dongchen.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/kaixin.json"
+    },
      {
       "key": "csp_XYQHikerAL_土豆",
       "name": "土豆🥔臻享4K",
