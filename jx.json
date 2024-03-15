@@ -135,6 +135,20 @@
       "api": "./drpy2.min.js",
       "ext": "./js/好趣网.js"
     },
+     {
+      "key": "csp_XPath_企鹅体育",
+      "name": "🐧企鹅体育",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/qietiyu.json"
+    },
       {
       "key": "cctv",
       "name": "📺央视｜大全",
