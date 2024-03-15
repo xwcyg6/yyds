@@ -117,6 +117,13 @@
       "api": "./drpy2.min.js",
       "ext": "./js/caigou.js"
     },
+     {
+      "key": "csp_可可",
+      "name": "可可影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/keke.json"
+    },
       {
       "key": "秒播影院",
       "name": "秒播🍓影院",
