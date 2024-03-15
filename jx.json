@@ -267,57 +267,7 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/dashixiong.js",
       "timeout": 15
     },
-    {
-      "key": "Gitcafe",
-      "name": "📀小纸条(搜索)",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "📀找资源(搜索)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
-    },
-    {
-      "key": "csp_AliPS",
-      "name": "📀喵狸盘搜(搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "📀易搜(搜索)",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "csp_Upyunso",
-      "name": "📀UP云搜(搜索)",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-      {
+         {
       "key": "Fangniu4k",
       "name": "放牛4K",
       "type": 3,
@@ -412,6 +362,56 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/玩偶妹妹.json"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "📀小纸条(搜索)",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Zhaozy",
+      "name": "📀找资源(搜索)",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
+    },
+    {
+      "key": "csp_AliPS",
+      "name": "📀喵狸盘搜(搜索)",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Yisou",
+      "name": "📀易搜(搜索)",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "📀UP云搜(搜索)",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
