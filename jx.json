@@ -459,6 +459,16 @@
       "playerType": 3,
       "api": "http://cc.xzam.cn/api.php/provide/vod/"
     },
+        {
+      "key": "csp_XYQHikerdyx",
+      "name": "🎢┃港湾蓝光┃",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/电影港.json"
+    },
      {
       "key": "csp_星辰",
       "name": "🎦星辰┃秒播",
