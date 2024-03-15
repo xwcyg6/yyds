@@ -117,15 +117,15 @@
       "api": "./drpy2.min.js",
       "ext": "./js/caigou.js"
     },
-     {
-      "key": "csp_可可",
-      "name": "可可影视",
+      {
+      "key": "可可影视",
+      "name": "可可🦙蓝光",
       "type": 3,
       "playerType": 2,
-      "searchable": 1
+      "searchable": 1,
       "api": "csp_XBPQ",
-       "jar": "./jar/dongchen.jar",
-      "ext": "./json/keke.json"
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./json/kekeys.json"
     },
       {
       "key": "秒播影院",
