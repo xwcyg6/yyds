@@ -276,6 +276,21 @@
       "changeable": 0,
       "jar": "./jar/fangniu.jar"
     },
+        {
+      "key": "玩偶ok",
+      "name": "玩偶⚗️臻享4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/okjpg.txt",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "wogg": true
+      },
+      "timeout": 30
+    },
       {
       "key": "yscal",
       "name": "👽运输阿里|T追剧",
