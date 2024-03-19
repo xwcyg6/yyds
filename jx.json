@@ -47,6 +47,107 @@
       "filterable": 0,
       "type_flag": 0
     },
+             {
+      "key": "Fangniu4k",
+      "name": "放牛4K",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/fangniu.jar"
+    },
+        {
+      "key": "玩偶ok",
+      "name": "玩偶⚗️臻享4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/okjpg.txt",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "wogg": true
+      },
+      "timeout": 30
+    },
+  {
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name": "📀玩偶哥哥(优)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/玩偶哥哥.json"
+    }, 
+    {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "./jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
+     {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "玩偶👽臻享4K",
+      "api": "csp_Wogg",
+      "jar": "./jar/PandaQ240216.jar",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    },
+  {
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "苏苏🛰️臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
+    },
+   {
+      "key": "csp_XYQHikerAL_影视车弟弟",
+      "name": "影视车🚛臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/yingshiche.json"
+    },
+    {
+      "key": "美妞_开心玩偶",
+      "name": "开心🍹臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/dongchen.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/kaixin.json"
+    },
+     {
+      "key": "csp_XYQHikerAL_土豆",
+      "name": "土豆🥔臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/dongchen.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tudou.json"
+    },
     {
       "key": "lf_js_search",
       "name": "搜索 | 路飞[js]",
@@ -480,107 +581,6 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy6.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/dashixiong.js",
       "timeout": 15
-    },
-         {
-      "key": "Fangniu4k",
-      "name": "放牛4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/fangniu.jar"
-    },
-        {
-      "key": "玩偶ok",
-      "name": "玩偶⚗️臻享4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/okjpg.txt",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "wogg": true
-      },
-      "timeout": 30
-    },
-  {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "📀玩偶哥哥(优)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/玩偶哥哥.json"
-    }, 
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "./jar/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-     {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "玩偶👽臻享4K",
-      "api": "csp_Wogg",
-      "jar": "./jar/PandaQ240216.jar",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-  {
-      "key": "csp_XYQHikerAL_阿里苏苏",
-      "name": "苏苏🛰️臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
-    },
-   {
-      "key": "csp_XYQHikerAL_影视车弟弟",
-      "name": "影视车🚛臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/yingshiche.json"
-    },
-    {
-      "key": "美妞_开心玩偶",
-      "name": "开心🍹臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/kaixin.json"
-    },
-     {
-      "key": "csp_XYQHikerAL_土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tudou.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶妹妹",
