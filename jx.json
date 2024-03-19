@@ -340,11 +340,11 @@
       "name": "影视车🚛臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyqwogg.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/yingshiche.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/yingshiche.json"
     },
     {
       "key": "美妞_开心玩偶",
