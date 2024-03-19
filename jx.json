@@ -497,7 +497,7 @@
     },
      {
       "key": "csp_星辰",
-      "name": "🎦星辰┃秒播",
+      "name": "👩星辰┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
        "jar": "./jar/ttkx.jar",
@@ -508,7 +508,7 @@
     },
      {
       "key": "csp_xBPQ_疯狗",
-      "name": "🎦疯狗┃秒播",
+      "name": "👩疯狗┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
        "jar": "./jar/ttkx.jar",
@@ -519,7 +519,7 @@
     },
      {
       "key": "农民影视",
-      "name": "🎦农民┃秒播",
+      "name": "👩农民┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
        "jar": "./jar/ttkx.jar",
@@ -530,7 +530,7 @@
     },
     {
       "key": "奈飞影视",
-      "name": "🎦鸭奈飞┃秒播",
+      "name": "👩鸭奈飞┃秒播",
       "type": 3,
       "api": "csp_XYQHiker",
        "jar": "./jar/ttkx.jar",
@@ -541,7 +541,7 @@
     },
     {
       "key": "奈飞中文",
-      "name": "🎦奈飞┃秒播",
+      "name": "👩奈飞┃秒播",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "./jar/ttkx.jar",
@@ -560,6 +560,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/xinshijue.json"
+    },
+      {
+      "key": "梦影",
+      "name": "梦影🔥追剧",
+      "jar": "./jar/Movie2.txt",
+      "type": 3,
+      "api": "csp_Movie2",
+      "ext": "./json/Movie5.json"
     },
     {
             "key": "T4-安博",
@@ -1126,6 +1134,21 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/a8yy.js"
+    },
+      {
+      "key": "kuaishouzb",
+      "name": "快手😎直播",
+      "type": 3,
+      "api": "csp_KsLive",
+      "jar": "./jar/okjpg.txt",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
     },
  {
       "key": "DRJS_虎牙",
