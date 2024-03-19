@@ -291,16 +291,6 @@
       },
       "timeout": 30
     },
-      {
-      "key": "yscal",
-      "name": "👽运输阿里|T追剧",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/运输阿里.json"
-    },
   {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "📀玩偶哥哥(优)",
