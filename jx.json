@@ -221,6 +221,13 @@
       "api": "./drpy2.min.js",
       "ext": "./js/caigou.js"
     },
+       {
+      "key": "影探",
+      "name": "🇹影探4K┃影院",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "ext": "./lib/yt.js"
+    },
       {
       "key": "可可影视",
       "name": "可可🦙蓝光",
