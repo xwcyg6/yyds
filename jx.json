@@ -118,17 +118,6 @@
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
     },
-   {
-      "key": "csp_XYQHikerAL_影视车弟弟",
-      "name": "影视车🚛臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/yingshiche.json"
-    },
     {
       "key": "美妞_开心玩偶",
       "name": "开心🍹臻享4K",
@@ -227,6 +216,23 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/yt.js"
+    },
+    {
+      "key": "drpy_js_NT动漫",
+      "name": "🇹┃NT动漫┃大全",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/NT%E5%8A%A8%E6%BC%AB.js"
+    },
+      {
+      "key": "js58",
+      "name": "🇹┃58动漫┃大全",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/58%E5%8A%A8%E6%BC%AB.js"
     },
       {
       "key": "可可影视",
