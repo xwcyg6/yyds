@@ -47,14 +47,17 @@
       "filterable": 0,
       "type_flag": 0
     },
-             {
-      "key": "Fangniu4k",
-      "name": "放牛4K",
+     {
+      "key": "地瓜臻享4K",
+      "name": "地瓜🍠臻享4K",
       "type": 3,
-      "api": "csp_Fangniu4k",
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fty.jar",
       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0,
-      "jar": "./jar/fangniu.jar"
+      "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
         {
       "key": "玩偶ok",
