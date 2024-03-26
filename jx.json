@@ -74,6 +74,17 @@
       },
       "timeout": 30
     },
+    {
+      "key": "csp_XYQHikerAL_玩你老哥",
+      "name": "📀玩你老哥",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./json/玩你老哥.json"
+    },
   {
       "key": "csp_XYQHikerAL_玩偶哥哥",
       "name": "📀玩偶哥哥(优)",
