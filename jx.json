@@ -1445,6 +1445,11 @@
       "type": 3,
       "url": "Web"
     },
+      {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
     {
       "name": "赛文",
       "type": 1,
