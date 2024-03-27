@@ -82,13 +82,13 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
+    "jar": "./jar/okjpg.txt",
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 25
-    "jar": "./jar/okjpg.txt",
     },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
