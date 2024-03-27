@@ -79,7 +79,6 @@
       "name": "🗽团长┃4K弹幕",
       "type": 3,
       "api": "csp_Tzfile",
-     "jar": "./jar/okjpg.txt",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -89,6 +88,7 @@
         "danmu": true
       },
       "timeout": 25
+    "jar": "./jar/okjpg.txt",
     },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
