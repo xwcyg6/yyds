@@ -59,40 +59,9 @@
       "changeable": 0,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
-        {
-      "key": "玩偶ok",
-      "name": "玩偶⚗️臻享4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jar/okjpg.txt",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "wogg": true
-      },
-      "timeout": 30
-    },
-        {
-      "key": "团长弹幕版",
-      "name": "🗽团长┃4K弹幕",
-      "type": 3,
-      "api": "csp_Tzfile",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-    "jar": "./jar/okjpg.txt",
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
-      "name": "📀玩你老哥",
+      "name": "🍹玩你老哥",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "playerType": 1,
