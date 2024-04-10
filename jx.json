@@ -59,6 +59,22 @@
       "changeable": 0,
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
+        {
+      "key": "表哥网盘",
+      "name": "表哥🍀臻享4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/"
+      },
+      "timeout": 25
+    },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
       "name": "🍹玩你老哥",
