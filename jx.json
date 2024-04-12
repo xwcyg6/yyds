@@ -335,7 +335,7 @@
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/58%E5%8A%A8%E6%BC%AB.js"
     },
-        {
+    {
       "key": "csp_XYQHiker_高清MP4",
       "name": "🌙高清|MP4",
       "type": 3,
@@ -343,7 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/高清MP4.json",
+      "ext": "./json/高清MP4.json","jar": "./jar/XYQ1.jar"
     },
       {
       "key": "可可影视",
