@@ -1637,6 +1637,11 @@
     }
   ],
   "parses": [
+     {
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
+    },
     {
       "name": "Web聚合",
       "type": 3,
@@ -1671,6 +1676,22 @@
       "name": "解析1",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+        {
+      "name": "左岸接口",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "header": {
+        "User-Agent": "okhttp/4.9.3"
+      }
+    },
+    {
+      "name": "巴拉接口",
+      "type": 1,
+      "url": "https://jxjson.icu/434684601.php?url=",
+      "header": {
+        "User-Agent": "okhttp/4.1.0"
+      }
     },
     {
       "name": "杰森",
