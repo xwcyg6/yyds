@@ -578,6 +578,15 @@
             "filterable": 0,
             "ext": "./json/中国蓝光网.json"
       },
+      {
+      "key": "ssb影视",
+      "name": "美妞蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/ssb.json"
+    },
     {
       "key": "yqkan1",
       "name": "1️⃣一起",
@@ -613,14 +622,6 @@
       ]
 },
     {
-       "key":"星影1080cms",
-       "name":"🎏星影相随",
-       "type":1,
-       "api":"https://www.xy1080.net/api.php/provide/vod",
-       "searchable":1,
-       "quickSearch":1
-    },
-     {
       "key": "taopian",
       "name": "🕹️淘片资源",
       "type": 1,
