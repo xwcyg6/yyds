@@ -341,6 +341,73 @@
       "changeable": 1,
       "ext": "https://www.zxzja.com/"
     },
+     {
+      "key": "csp_黑狐",
+      "name": "黑狐┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/heihu.json"
+    },
+      {
+      "key": "csp_xBPQ_奇优",
+      "name": "奇优┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/qiyou.json"
+    },
+     {
+      "key": "csp_好戏",
+      "name": "好戏┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/haoxiys.json"
+    },
+        {
+      "key": "热播之家",
+      "name": "热播之家",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/rebozj.json"
+    },
+       {
+      "key": "石榴影视",
+      "name": "石榴影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/shiliu.json"
+    },
+     {
+      "key": "达达龟",
+      "name": "达龟┃2K",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": "1",
+      "ext": "./json/dadagui.json"
+    },
     {
       "key": "csp_蛋蛋",
       "name": "🍊蛋蛋影视|T追剧",
@@ -565,6 +632,40 @@
         "其他片",
         "体育赛事",
         "海外剧"
+      ]
+    },
+        {
+      "key": "高清资源网",
+      "name": "美妞高清┃2K",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "动作片",
+        "国产剧",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "日本剧",
+        "泰国剧",
+        "韩国剧",
+        "台湾剧",
+        "香港剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫"
       ]
     },
     {
