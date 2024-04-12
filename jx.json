@@ -480,6 +480,17 @@
       "filterable": 1,
       "ext": "./json/zizi.json"
     },
+      {
+      "key":"csp_CandyMuj_freeok",
+      "name":"💖FREEOK","
+      "type": 3,
+     "api":"csp_CandyMuj_freeok",
+      "jar": "./jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1, 
+     "jar":"./jar/Fr.jar"
+    },
         {
       "key": "Free影视",
       "name": "Free🌴蓝光",
