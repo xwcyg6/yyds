@@ -346,6 +346,17 @@
       "changeable": 1,
       "ext": "https://www.zxzja.com/"
     },
+      {
+      "key": "HDmoli",
+      "name": "魔力高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/HDmoli.json"
+    },
      {
       "key": "csp_黑狐",
       "name": "黑狐┃秒播",
@@ -1014,17 +1025,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
-},
     {
       "key": "csp_New6v",
       "name": "🧲新6V",
