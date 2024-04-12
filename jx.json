@@ -1505,7 +1505,6 @@
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
-    {"name":"超解析","type":3,"url":"Demo"},
 {"name":"超嗅探","type":3,"url":"Web"},
 {"name": "美妞极速解析", "type": 1, "url": "https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url=",
 		"ext":{"flag":["qq",
