@@ -583,6 +583,7 @@
       "name": "美妞蓝光",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/ssb.json"
