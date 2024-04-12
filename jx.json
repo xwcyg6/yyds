@@ -1483,19 +1483,6 @@
       "url": "Web"
     },
     {"name":"超解析","type":3,"url":"Demo"},
-        {
-      "name": "美妞1",
-      "type": 1,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-      "ext": {
-        "flag": [
-          "seven"
-        ],
-        "header": {
-          "User-Agent": "Lavf/58.12.100"
-        }
-      }
-    },
 {
             "name": "️美妞天下",
             "type": 0,
@@ -1513,6 +1500,49 @@
         "header": {
           "User-Agent": "Lavf/58.12.100"
         }
+      }
+    },
+        {
+      "name": "茶杯解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
       }
     },
    {
