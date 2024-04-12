@@ -363,23 +363,11 @@
       "filterable": 1,
       "ext": "./json/qiyou.json"
     },
-     {
-      "key": "csp_好戏",
-      "name": "好戏┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/haoxiys.json"
-    },
         {
       "key": "热播之家",
       "name": "热播之家",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
