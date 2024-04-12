@@ -151,6 +151,16 @@
       "filterable": 1,
       "ext": "./json/kaixin.json"
     },
+      {
+      "key": "土豆阿里",
+      "name": "🥔土豆阿里",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/土豆阿里.json"
+    },
      {
       "key": "csp_XYQHikerAL_土豆",
       "name": "土豆🥔臻享4K",
