@@ -140,6 +140,76 @@
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
     },
+      {
+      "key": "️玩偶嫂子",
+      "name": "💿玩偶|嫂子",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/wos.json","jar": "./jar/yg.jar"
+    },
+    {
+      "key": "️玩偶姐姐",
+      "name": "💿玩偶|姐姐",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/woj.json","jar": "./jar/yg.jar"
+    },
+    {
+      "key": "️玩偶姐夫",
+      "name": "💿玩偶|姐夫",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/wof.json","jar": "./jar/yg.jar"
+    },
+    {
+      "key": "️玩偶弟弟",
+      "name": "💿玩偶|弟弟",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/wod.json","jar": "./jar/yg.jar"
+    },
+    {
+      "key": "️玩偶弟媳",
+      "name": "💿玩偶|弟媳",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/wodf.json","jar": "./jar/yg.jar"
+    },
+    {
+      "key": "️玩偶妹妹",
+      "name": "💿玩偶|妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/wom.json","jar": "./jar/yg.jar"
+    },
+    {
+      "key": "️玩偶妹夫",
+      "name": "💿玩偶|妹夫",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/womf.json","jar": "./jar/yg.jar"
+    },
     {
       "key": "美妞_开心玩偶",
       "name": "开心🍹臻享4K",
