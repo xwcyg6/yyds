@@ -329,6 +329,12 @@
       "ext": "./json/哔哩经典.json"
     },
      {
+      "key": "T4-mingri",
+      "name": "明日☀影视",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php"
+    },
+     {
       "key": "zxzj",
       "name": "在线🍊外剧",
       "type": 3,
@@ -361,6 +367,62 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/qiyou.json"
+    },
+     {
+      "key": "子子影视",
+      "name": "子子🐰蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/zizi.json"
+    },
+        {
+      "key": "Free影视",
+      "name": "Free🌴蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/freevip.json"
+    },
+     {
+      "key": "nkvod",
+      "name": "耐看☘️蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nkvod.json"
+    },
+      {
+      "key": "COKEMV影院",
+      "name": "可乐🥤观影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/cokemv.json"
+    },
+     {
+      "key": "胖虎影视",
+      "name": "胖虎🐯影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/panghuys.json"
     },
         {
       "key": "热播之家",
