@@ -479,31 +479,7 @@
       "filterable": 1,
       "ext": "./json/蛋蛋影视.json"
     },
-       {
-      "key":"csp_河马",
-      "name":"河马",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{
-        "分类url":"https://www.hemaha.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
-      },
-         {
-            "key": "csp_XYQHiker中国蓝",
-            "name": "🐳中国蓝光",
-            "type": 3,
-            "api": "csp_XYQHiker",
-         "jar": "./jar/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://pan.shangui.cc/f/VMXf8/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json","jar":""},
-    
-       {
+    {
       "key": "yqkan1",
       "name": "1️⃣一起",
       "type": 3,
