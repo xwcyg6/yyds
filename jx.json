@@ -311,6 +311,13 @@
       "api": "./drpy2.min.js",
       "ext": "./js/caigou.js"
     },
+     {
+      "key": "蚂蚁",
+      "name": "蚂蚁┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/"
+    },
       {
       "key": "影探",
       "name": "🇹影探4K┃影院",
