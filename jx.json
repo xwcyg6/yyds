@@ -75,6 +75,16 @@
       },
       "timeout": 25
     },
+      {
+      "key": "玩我哥哥",
+      "name": "玩我|哥哥",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/玩我哥哥.json"
+    },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
       "name": "🍹玩你老哥",
