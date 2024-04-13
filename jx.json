@@ -1183,7 +1183,7 @@
       "name": "👁️视觉┃蓝光┃纯净",
       "type": 3,
       "api": "csp_Web608",
-    "jar": "./jar/XBPQ.jar",
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xwcyg6/yyds/main//jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
