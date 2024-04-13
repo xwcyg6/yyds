@@ -1114,14 +1114,6 @@
       "ext": "https://www.qiqiguai.cn/api.php/app/"
     },
     {
-      "key": "小胡",
-      "name": "小胡🥳影视",
-      "type": 1,
-      "jar": "./jar/小胡.jar",
-      "playerType": 3,
-      "api": "http://cc.xzam.cn/api.php/provide/vod/"
-    },
-        {
       "key": "csp_XYQHikerdyx",
       "name": "🎢┃港湾蓝光┃",
       "type": 3,
@@ -1185,6 +1177,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/nfzw.json"
+    },
+        {
+      "key": "新视觉备用",
+      "name": "👁️视觉┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_Web608",
+    "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://www.6080yy4.com"
     },
       {
       "key": "新视觉影院",
