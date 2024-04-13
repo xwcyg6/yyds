@@ -499,6 +499,28 @@
       "filterable": 1,
       "ext": "./json/freevip.json"
     },
+      {
+      "key": "csp_XYQBiu_骚火VIP",
+      "name": "骚火VIP",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/shyyVIP.json"
+    },
+      {
+      "key": "csp_盒子",
+      "name": "盒子┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/hezi.json"
+    },
      {
       "key": "nkvod",
       "name": "耐看☘️蓝光",
