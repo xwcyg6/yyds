@@ -221,6 +221,17 @@
       "filterable": 1,
       "ext": "./json/kaixin.json"
     },
+
+{
+      "key": "csp_XYQHikerAL_9995",
+      "name": "9995🐣云盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/9995yunpan.json"
+    },
       {
       "key": "土豆阿里",
       "name": "🥔土豆阿里",
