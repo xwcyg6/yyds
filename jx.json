@@ -1014,6 +1014,26 @@
       "filterable": 1,
       "ext": "./json/玩偶妹妹.json"
     },
+ {
+      "key": "Wexyingso",
+      "name": "影搜⛵网盘",
+      "type": 3,
+      "api": "csp_Wexyingso",
+      "jar": "./jar/yingso.jar",      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ {
+      "key": "csp_XYQHikerAL_77zys",
+      "name": "影视🚄网盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/77zys.json"
+    },
     {
       "key": "Gitcafe",
       "name": "📀小纸条(搜索)",
