@@ -1101,38 +1101,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-       {
-      "key": "Bdys",
-      "name": "💧哔嘀┃影视",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "changeable": 1
-    },
-      {
-      "key": "厂长",
-      "name": "厂长┃2K",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bo.czys.me"
-    },
-      {
-      "key": "地瓜",
-      "name": "地瓜🍺超清",
-      "type": 3,
-      "api": "csp_AppYsV2",
-     "jar": "./jar/小胡.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://www.qiqiguai.cn/api.php/app/"
-    },
-    {
+  {
       "key": "csp_XYQHikerdyx",
       "name": "🎢┃港湾蓝光┃",
       "type": 3,
@@ -1312,15 +1281,7 @@
       "filterable": 1,
       "ext": "./json/哔嘀影视.json"
     },
-    {
-      "key": "csp_Ddys",
-      "name": "🐞低端影视",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_JianPian",
       "name": "🔨荐片",
