@@ -317,12 +317,16 @@
       "api": "csp_AppYsV2",
       "ext": "http://122.228.84.103:5822/api.php/app/"
     },
-      {
-      "key": "影探",
-      "name": "🇹影探4K┃影院",
+    {
+      "key": "剧圈影视",
+      "name": "剧圈🔥影视",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/yt.js"
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqys.json"
     },
     {
       "key": "drpy_js_NT动漫",
@@ -368,7 +372,7 @@
       "searchable": 1,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "./json/kekeys.json"
+      "ext": "./json/kkys.json"
     },
       {
       "key": "秒播影院",
