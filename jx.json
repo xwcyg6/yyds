@@ -1309,7 +1309,8 @@
       "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./json/哔嘀影视.json"
     },
     {
       "key": "csp_Ddys",
