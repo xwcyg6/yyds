@@ -1023,14 +1023,14 @@
       "ext": "./json/77zys.json"
     },
     {
-      "key": "Gitcafe",
-      "name": "📀小纸条(搜索)",
+      "key": "csp_XYQHiker_影搜",
+      "name": "📀影搜(XYQH)",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "./json/影搜.json"
     },
     {
       "key": "csp_Zhaozy",
