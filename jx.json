@@ -367,6 +367,17 @@
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/58%E5%8A%A8%E6%BC%AB.js"
     },
+    {
+      "key": "饭团影视",
+      "name": "饭团🍚影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/fantuan.json"
+    },
      {
       "key": "csp_Mp4Mov",
       "name": "🌙Mp4|电影",
