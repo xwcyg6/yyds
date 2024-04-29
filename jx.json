@@ -1372,7 +1372,7 @@
             "name": "🔞白色液体",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"./json/XBPQ.jar",
+            "jar":"./jar/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
