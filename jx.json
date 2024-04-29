@@ -310,6 +310,13 @@
       "api": "./drpy2.min.js",
       "ext": "./js/caigou.js"
     },
+    {
+            "key": "福利资源",
+            "name": "🗼自营",
+            "type": 3,
+            "api": "./live_min.js",
+            "ext": "./json/自营.json"
+        },
      {
       "key": "蚂蚁",
       "name": "蚂蚁┃资源",
