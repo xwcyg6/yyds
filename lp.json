@@ -68,6 +68,39 @@
       "filterable": 1,
       "ext": "./json/开心HK影视.json"
     },
+        {
+      "key": "业余采集A",
+      "name": "🎦业余无广",
+      "type": 1,
+      "api": "http://540734621.xyz/api.php/provide/vod/",
+      "playUrl": "json:http://uutb.centos.chat/jsonwjm.php/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "短剧",
+        "电影",
+        "国内剧",
+        "欧美剧",
+        "港台剧",
+        "日韩剧",
+        "海外剧",
+        "国内电影",
+        "欧美电影",
+        "港台电影",
+        "日韩电影",
+        "国内动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "国内综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "纪录片",
+        "音乐",
+        "体育"
+      ]
+    },
     {
       "key": "csp_xBPQ_小茶狐",
       "name": "🌺小茶狐",
@@ -1124,46 +1157,6 @@
       "ext": "./json/云盘资源.json"
     },
     {
-      "key": "push_agent",
-      "name": "📨影视推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "py_cctv",
-      "name": "🌔央视大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/央视大全.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🏮相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/Blixs.json"
-    },
-    {
-      "key": "戏 曲",
-      "name": "🎈国粹戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/Blixq.json"
-    },
-    {
       "key": "演唱会",
       "name": "🎸演唱会",
       "type": 3,
@@ -1258,16 +1251,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./js/douyu.js"
-    },
-    {
-      "key": "兔小贝",
-      "name": "🐰兔小贝",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/tuxiaobei.js"
     },
     {
       "key": "哔哩哔哩",
@@ -1402,13 +1385,6 @@
         "ratio": 1
       },
       "ext": "./js/zhonghua.js"
-    },
-    {
-      "key": "喜马拉雅",
-      "name": "📚️听书┃喜马拉雅",
-      "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./js/ximalaya.js"
     },
     {
       "key": "DJ呦呦音乐网",
