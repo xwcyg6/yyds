@@ -685,7 +685,7 @@
     },
         {
       "key": "业余采集A",
-      "name": "🎦业余无广",
+      "name": "业余无广",
       "type": 1,
       "api": "http://540734621.xyz/api.php/provide/vod/",
       "playUrl": "json:http://uutb.centos.chat/jsonwjm.php/?url=",
