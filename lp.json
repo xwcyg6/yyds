@@ -617,16 +617,6 @@
       "ext": "./json/shiliu.json"
     },
     {
-      "key": "两个BT",
-      "name": "🌺两个BT",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/bttwo.json"
-    },
-    {
       "key": "VIP影视",
       "name": "🌺VIP┃2K",
       "type": 3,
@@ -1372,7 +1362,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./js/yousheng.js"
+      "ext": "./js/有声小说吧.js"
     },
     {
       "key": "js_中华听书网",
