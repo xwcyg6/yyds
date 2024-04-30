@@ -1141,7 +1141,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/cctv.py"
+      "ext": "./json/央视大全.json"
     },
     {
       "key": "相声小品",
