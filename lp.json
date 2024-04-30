@@ -1171,7 +1171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/yanchanghui.txt"
+      "ext": "./json/哔哩演唱会.json"
     },
     {
       "key": "csp_XBPQ_短视频",
