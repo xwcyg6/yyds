@@ -276,6 +276,16 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/lf_live.txt"
     },
     {
+      "key": "直播转点播",
+      "name": "📺︎电视IJK点播",
+      "type": 3,
+      "api": "./js/zbzdb.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/zb.json"
+    },
+    {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
@@ -424,6 +434,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/miaobo.json"
+    },
+    {
+      "key": "厂长",
+      "name": "🌺厂长┃无广",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czys.top/"
     },
       {
       "key": "好趣网",
