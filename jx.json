@@ -672,17 +672,6 @@
       "ext": "./json/ssb.json"
     },
     {
-      "key": "yqkan1",
-      "name": "1️⃣一起",
-      "type": 3,
-      "api": "csp_YQKan",
-      "jar": "./jar/xc14.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "公众号:影视资源站"
-    },
-    {
       "key": "皮皮虾",
       "name": "皮皮🦐蓝光",
       "type": 3,
@@ -1334,7 +1323,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czys.top"
+      "ext": "https://github.moeyy.xyz/https://www.czys.top"
     },
      {
       "key": "csp_XYQHiker_哔嘀影视",
