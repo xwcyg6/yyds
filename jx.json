@@ -339,15 +339,17 @@
             "api": "./live_min.js",
             "ext": "./json/自营.json"
         },
-        {
+      {
       "key": "123影视",
       "name": "123影视",
       "type": 3,
       "api": "csp_XBPQ",
    "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext":{"简介":"美妞为您剧情介绍: +video-info-content vod_content\">&&</div>","线路数组":"module-tab-item tab-item\" data-dropdown-value=&&</div>","分类url":"https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"}},
-     {
-      "key": "看片狂人",
+    {      "key": "看片狂人",
       "name": "看片狂人",
       "type": 3,
       "api": "csp_XBPQ",
