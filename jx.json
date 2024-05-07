@@ -339,6 +339,16 @@
             "api": "./live_min.js",
             "ext": "./json/自营.json"
         },
+     {
+      "key": "高清在线",
+      "name": "高清在线",
+      "type": 3,
+      "api": "csp_XBPQ",
+   "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":{"简介":"美妞为您剧情介绍: +stui-pannel_bd\">&&</div>","线路数组":"stui-pannel__head bottom-line active clearfix\">&&</div>","分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}},
  {
       "key": "晨光电影",
       "name": "晨光电影",
