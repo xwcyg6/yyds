@@ -339,9 +339,6 @@
             "api": "./live_min.js",
             "ext": "./json/自营.json"
         },
-    { "key": "5G影视",  "name": "5G影视", "type": 3,"api": "csp_XBPQ", "jar": "./jar/XBPQ.jar","ext": {"分类url":"http://www.pdd6.com/haokanshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},
-
-{ "key": "一起影视",  "name": "一起影视", "type": 3,"api": "csp_XBPQ", "ext": {"分类url":"http://www.cdlhmq.cn/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area};;d","分类":"电视剧$2#电影$1#综艺$3#动漫$4#短剧$30"}},
        {
       "key": "免费电影",
       "name": "免费电影",
