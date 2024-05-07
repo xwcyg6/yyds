@@ -122,6 +122,50 @@
       "changeable": 1,
       "jar": "./jar/厂长.jar",
       "ext": "https://www.czys.top/"
+    },
+    {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘资源(搜索)",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./花千骨.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/云盘资源.json"
+    },
+   {
+      "key": "csp_Yisou",
+      "name": "📀易搜(搜索)",
+      "type": 3,
+      "api": "csp_Yisou",
+     "jar": "./花千骨.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+      "key": "csp_Upyunso",
+      "name": "📀UP云搜(搜索)",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "jar": "./花千骨.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+ {
+      "key": "csp_AliPS",
+      "name": "📀喵狸盘搜(搜索)",
+      "type": 3,
+      "api": "csp_AliPS",
+      "jar": "./花千骨.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     }
   ],
   "parses": [
