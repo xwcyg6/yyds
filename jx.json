@@ -47,6 +47,18 @@
       "filterable": 0,
       "type_flag": 0
     },
+     {
+      "key": "csp_Czzy",
+      "name": "┃厂长影视┃请勿相信视频内广告",
+      "type": 3,
+      "api": "csp_Czzy",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jar/厂长.jar",
+      "ext": "https://www.czys.top/"
+    },
     {
       "key": "表哥网盘",
       "name": "表哥🍀臻享4K",
