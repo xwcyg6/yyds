@@ -339,16 +339,16 @@
             "api": "./live_min.js",
             "ext": "./json/自营.json"
         },
-      {
-      "key": "123影视",
-      "name": "123影视",
+ {
+      "key": "晨光电影",
+      "name": "晨光电影",
       "type": 3,
       "api": "csp_XBPQ",
    "jar": "./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":{"简介":"美妞为您剧情介绍: +video-info-content vod_content\">&&</div>","线路数组":"module-tab-item tab-item\" data-dropdown-value=&&</div>","分类url":"https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"}},
+      "ext":{"简介":"美妞为您剧情介绍: +white-space: initial;\">&&</div>","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>","分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"}},,
     {      "key": "看片狂人",
       "name": "看片狂人",
       "type": 3,
