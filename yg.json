@@ -79,7 +79,7 @@
       "key": "drpy_js_360",
       "name": "┃360视频┃[官网]",
       "type": 3,
-      "api": "./drpymin.js",
+      "api": "./drpy2.min.js",
       "ext": "./js/360.js"
     },
     {
