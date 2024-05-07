@@ -339,6 +339,16 @@
             "api": "./live_min.js",
             "ext": "./json/自营.json"
         },
+       {
+      "key": "免费电影",
+      "name": "免费电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","分类url": "http://www.namefamous.top/vshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$1#电影$2#动漫$3#综艺$4"}},
  {
       "key": "晨光电影",
       "name": "晨光电影",
