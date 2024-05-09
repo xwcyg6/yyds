@@ -104,6 +104,17 @@
       "filterable": 1,
       "ext": "./json/玩我哥哥.json"
     },
+      {
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "jar": "./花千骨.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
     {
       "key": "荐片",
       "name": "🌺荐片秒播",
