@@ -12,7 +12,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "勇哥祝大家龙年大发",
+      "name": "乡村最美妞祝大家龙年大发",
       "type": 3,
       "api": "./drpy2.min.js",
       "searchable": 0,
