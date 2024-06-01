@@ -1981,14 +1981,6 @@
       }
     },
     {
-      "name": "巴拉接口",
-      "type": 1,
-      "url": "https://jxjson.icu/fangdao.php?url=",
-      "header": {
-        "User-Agent": "okhttp/4.1.0"
-      }
-    },
-    {
       "name": "芒果接口",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
