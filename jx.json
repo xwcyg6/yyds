@@ -53,7 +53,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ua": "okhttp/3.15",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "./jar/ttkx.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
