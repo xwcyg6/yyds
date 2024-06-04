@@ -59,22 +59,6 @@
       "jar": "./jar/厂长.jar",
       "ext": "https://www.czys.top/"
     },
-    {
-      "key": "表哥网盘",
-      "name": "表哥🍀臻享4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://wobge.run.goorm.io/"
-      },
-      "timeout": 25
-    },
       {
       "key": "玩我哥哥",
       "name": "玩我|哥哥",
