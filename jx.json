@@ -59,6 +59,19 @@
       "jar": "./jar/厂长.jar",
       "ext": "https://www.czys.top/"
     },
+    { 
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "jar": "./jar/ttkx.jar",
+      "timeout": 15,
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "表哥网盘",
       "name": "表哥🍀臻享4K",
