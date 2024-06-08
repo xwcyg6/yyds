@@ -72,6 +72,11 @@
       "jar": "./jar/厂长.jar",
       "ext": "https://www.czys.top/"
     },
+    {
+ "key": "玩偶弹幕版", "name": "玩偶⚗️弹幕4K", "type": 3, "api": "csp_Wogg", "jar": "./jar/dongchenok.jar", "searchable": 1, "filterable": 1, "changeable": 1, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "site": "https://www.wogg.net", "danmu": true 
+},
+ "timeout": 25
+ },
       {
       "key": "玩我哥哥",
       "name": "玩我|哥哥",
