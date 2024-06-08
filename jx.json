@@ -87,7 +87,6 @@
       "filterable": 1,
       "ext": "./json/玩我哥哥.json"
     },
-    { "key": "csp_XYQHikerAL_玩偶哥哥", "name": "玩偶🍺臻享4K", "type": 3, "api": "csp_XYQHikerAL", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json/woggzx.json" },
     {
       "key": "csp_XYQHikerAL_玩你老哥",
       "name": "🍹玩你老哥",
@@ -119,18 +118,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-     {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "玩偶👽臻享4K",
-      "api": "csp_Wogg",
-      "jar": "./jar/PandaQ240216.jar",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
   {
       "key": "csp_XYQHikerAL_阿里苏苏",
