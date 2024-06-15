@@ -316,8 +316,8 @@
       "key": "搜狗2",
       "name": " 搜狗┃官源 ",
       "type": 3,
-      "api": "./drpy2.min.js",
-      "ext": "./js/caigou.js"
+      "api": "https://gitdl.cn/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
+      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/caigou.js"
     },
     {
             "key": "福利资源",
