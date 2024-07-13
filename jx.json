@@ -400,17 +400,6 @@
       "ext": "./json/kkys.json"
     },
       {
-      "key": "秒播影院",
-      "name": "秒播🍓影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/miaobo.json"
-    },
-      {
       "key": "好趣网",
       "name": "电视┃频道",
       "type": 3,
@@ -453,12 +442,6 @@
       "ext": "./json/哔哩经典.json"
     },
      {
-      "key": "T4-mingri",
-      "name": "明日☀影视",
-      "type": 4,
-      "api": "https://catbox.n13.club/mingri.php"
-    },
-     {
       "key": "zxzj",
       "name": "在线🍊外剧",
       "type": 3,
@@ -492,17 +475,6 @@
       "filterable": 1,
       "ext": "./json/heihu.json"
     },
-      {
-      "key": "csp_xBPQ_奇优",
-      "name": "奇优┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/qiyou.json"
-    },
      {
       "key": "子子影视",
       "name": "子子🐰蓝光",
@@ -516,17 +488,6 @@
       "ext": "./json/zizi.json"
     },
              {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/Fr.jar"},
-    {
-      "key": "Free影视",
-      "name": "Free🌴蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/freevip.json"
-    },
       {
       "key": "csp_XYQBiu_骚火VIP",
       "name": "骚火VIP",
@@ -538,17 +499,6 @@
       "filterable": 1,
       "ext": "./json/shyyVIP.json"
     },
-      {
-      "key": "csp_盒子",
-      "name": "盒子┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/hezi.json"
-    },
      {
       "key": "nkvod",
       "name": "耐看☘️蓝光",
@@ -559,17 +509,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/nkvod.json"
-    },
-      {
-      "key": "COKEMV影院",
-      "name": "可乐🥤观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/cokemv.json"
     },
      {
       "key": "胖虎影视",
@@ -645,17 +584,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/ssb.json"
-    },
-    {
-      "key": "皮皮虾",
-      "name": "皮皮🦐蓝光",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar":"./jar/ppx.txt",
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
     },
       {
 "key": "Bilfun",
@@ -752,93 +680,6 @@
         "中国动漫",
         "日本动漫",
         "欧美动漫"
-      ]
-    },
-        {
-      "key": "49zy",
-      "name": "🐉┃狮鹫秒播┃",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
-      ]
-    },
-      {
-      "key": "乐视采集",
-      "name": "乐视🏜️蓝光",
-      "type": 1,
-      "playerType": 2,
-      "searchable": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "泰国剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "短剧",
-        "日剧",
-        "海外剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "电影解说",
-        "动作片",
-        "冒险片",
-        "动画片",
-        "喜剧片",
-        "爱情片",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "犯罪片",
-        "其他片"
       ]
     },
      {
