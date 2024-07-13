@@ -452,6 +452,16 @@
       "changeable": 1,
       "ext": "./json/meibai.json"
     },
+     {
+      "key": "天天影视",
+      "name": "天天🍦影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/nmys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
       {
       "key": "好趣网",
       "name": "电视┃频道",
