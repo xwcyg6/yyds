@@ -69,6 +69,15 @@
       }
     },
       {
+      "key": "农民影视",
+      "name": "农民👨‍🌾直连",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "./jar/nmys.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+      {
       "key": "原创",
       "name": "原创┃无广",
       "type": 3,
