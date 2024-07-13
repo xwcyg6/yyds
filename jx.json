@@ -67,18 +67,6 @@
       "playerType": 1,
       "changeable": 1
     },
-     {
-      "key": "csp_Czzy",
-      "name": "┃厂长影视┃请勿相信视频内广告",
-      "type": 3,
-      "api": "csp_Czzy",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./jar/厂长.jar",
-      "ext": "https://www.czys.pro/"
-    },
     {
  "key": "玩偶弹幕版", "name": "玩偶⚗️弹幕4K", "type": 3, "api": "csp_Wogg", "jar": "./jar/dongchenok.jar", "searchable": 1, "filterable": 1, "changeable": 1, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "site": "https://www.wogg.net", "danmu": true 
 },
@@ -326,16 +314,6 @@
             "api": "./live_min.js",
             "ext": "./json/自营.json"
         },
-       {
-      "key": "免费电影",
-      "name": "免费电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","分类url": "http://www.namefamous.top/vshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$1#电影$2#动漫$3#综艺$4"}},
  {
       "key": "晨光电影",
       "name": "晨光电影",
@@ -346,15 +324,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":{"简介":"美妞为您剧情介绍: +white-space: initial;\">&&</div>","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>","分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"}},
-    {      "key": "看片狂人",
-      "name": "看片狂人",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]","分类":"国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"}},
      {
       "key": "蚂蚁",
       "name": "蚂蚁┃资源",
@@ -372,28 +341,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/jqqys.json"
-    },
-      {
-      "key": "4K影院",
-      "name": "影院☘️蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/4kvm.json"
-    },
-    {
-      "key": "爱ai看",
-      "name": "爱看🏜️蓝光",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/ppx.txt",
-      "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
     },
       {
         "key": "drpy_js_NT动漫",
