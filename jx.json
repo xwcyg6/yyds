@@ -442,6 +442,16 @@
       "jar": "./jar/XBPQ.jar",
       "ext": "./json/kkys.json"
     },
+    {
+      "key": "美柏影视",
+      "name": "美柏🏝蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/meibai.json"
+    },
       {
       "key": "好趣网",
       "name": "电视┃频道",
