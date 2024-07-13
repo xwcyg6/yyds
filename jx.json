@@ -321,6 +321,15 @@
       "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/caigou.js"
     },
+     {
+      "key": "明日影视",
+      "name": "明日☀影视",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "jar": "./jar/sp.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
             "key": "福利资源",
             "name": "🗼自营",
