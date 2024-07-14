@@ -590,7 +590,7 @@
       "key": "网飞影视",
       "name": "影视 | 网飞",
       "type": 3,
-      "api": "./drpy.min.js",
+      "api": "./drpy2.min.js",
       "ext": "./js/网飞TV.js"
     },
      {
