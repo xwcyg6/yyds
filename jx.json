@@ -59,11 +59,6 @@
       "name": "freeok(drpy_t3)",
       "type": 3,
       "api": "./drpy2.min.js",
-      "jar": "./jar/PG.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
       "ext": "./js/freeok.js"
     },
     {
