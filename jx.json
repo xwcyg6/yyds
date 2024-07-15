@@ -54,6 +54,28 @@
       "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/jianpian.js"
     },
+        {
+      "key": "hipy_js_freeok",
+      "name": "freeok(drpy_t3)",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/freeok.js"
+    },
+    {
+      "key": "hipy_js_FreeOKLOL",
+      "name": "FreeOKLOL(drpy_t3)",
+      "type": 3,
+      "api": "./drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/FreeOKLOL.js"
+    },
      {
       "key": "厂长",
       "name": "厂长",
