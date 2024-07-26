@@ -4,7 +4,7 @@
        {
       "name": "live",
       "type": 0,
-      "url": "./lib/live1.txt",
+      "url": "https://blog.4dz.top:18443/zhiboyuan/%E7%9B%B4%E6%92%AD%E6%BA%90.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
