@@ -59,7 +59,7 @@
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
     },
-    {"key": "360zy","name": "🎦360采集","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
+    {"key": "360zy","name": "360采集","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
     {
       "key": "drpy_js_荐片",
       "name": "荐片[js]",
@@ -118,130 +118,7 @@
 },
  "timeout": 25
  },
-   {
-      "key": "csp_XYQHikerAL_阿里苏苏",
-      "name": "苏苏🛰️臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
-    },
-      {
-      "key": "️玩偶嫂子",
-      "name": "💿玩偶|嫂子",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/wos.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "️玩偶姐姐",
-      "name": "💿玩偶|姐姐",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/woj.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "️玩偶姐夫",
-      "name": "💿玩偶|姐夫",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/wof.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "️玩偶弟弟",
-      "name": "💿玩偶|弟弟",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/wod.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "️玩偶弟媳",
-      "name": "💿玩偶|弟媳",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/wodf.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "️玩偶妹妹",
-      "name": "💿玩偶|妹妹",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/wom.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "️玩偶妹夫",
-      "name": "💿玩偶|妹夫",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/womf.json","jar": "./jar/yg.jar"
-    },
-    {
-      "key": "美妞_开心玩偶",
-      "name": "开心🍹臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/kaixin.json"
-    },
-
-{
-      "key": "csp_XYQHikerAL_9995",
-      "name": "9995🐣云盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/9995yunpan.json"
-    },
-      {
-      "key": "土豆阿里",
-      "name": "🥔土豆阿里",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/土豆阿里.json"
-    },
-     {
-      "key": "csp_XYQHikerAL_土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tudou.json"
-    },
-    {
+ {
       "key": "lf_js_search",
       "name": "搜索 | 路飞[js]",
       "type": 3,
@@ -571,18 +448,7 @@
       "filterable": 1,
       "ext": "./json/nkvod.json"
     },
-     {
-      "key": "胖虎影视",
-      "name": "胖虎🐯影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/panghuys.json"
-    },
-        {
+   {
       "key": "热播之家",
       "name": "热播之家",
       "type": 3,
@@ -667,6 +533,17 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/ssb.json"
+    },
+     {
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "苏苏🛰️臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/json/alisusu.json"
     },
       {
 "key": "Bilfun",
