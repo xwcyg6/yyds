@@ -798,33 +798,6 @@
         "欧美综艺"
       ]
     },
-        {
-      "key": "新浪",
-      "name": "影视 | 新浪资源",
-      "type": 1,
-      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "",
-      "categories": [
-        "电影",
-        "动漫",
-        "动漫电影",
-        "战争片",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "日剧",
-        "电视剧",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "韩剧",
-        "欧美剧"
-      ]
-    },
     {
       "key": "HH",
       "name": "影视 | 豪华资源",
@@ -1633,36 +1606,6 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
-    },
-       {
-      "name": "蓝光六趣",
-      "type": 1,
-      "url": "http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     },
       {
       "name": "美妞",
