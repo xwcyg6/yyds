@@ -1357,16 +1357,15 @@
       "filterable": 1
     },
      {
-      "key": "csp_XYQHiker_哔嘀影视",
-      "name": "🧲哔嘀影视(XYQH)",
+      "key": "csp_Bdys",
+      "name": "🐞哔嘀影视",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/哔嘀影视.json"
+      "ext": "https://www.ilanyu.com/"
     },
- {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_JianPian",
       "name": "🔨荐片",
