@@ -82,6 +82,16 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/caigou.js"
     },
+      {
+      "key": "csp_XYQHikerdyx",
+      "name": "🎢┃港湾蓝光┃",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/电影港.json"
+    },
        {
       "key": "多多影音",
       "name": "👲┃多多┃影音",
@@ -1529,46 +1539,6 @@
       "filterable": 1,
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/58%E5%8A%A8%E6%BC%AB.js"
     },
- {
-      "key": "Wexyingso",
-      "name": "影搜⛵网盘",
-      "type": 3,
-      "api": "csp_Wexyingso",
-      "jar": "./jar/yingso.jar",      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
-      "key": "csp_XYQHikerAL_77zys",
-      "name": "影视🚄网盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/77zys.json"
-    },
-    {
-      "key": "csp_XYQHiker_影搜",
-      "name": "📀影搜(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/影搜.json"
-    },
-    {
-      "key": "csp_Zhaozy",
-      "name": "📀找资源(搜索)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"username\":\"fanty\",\"password\":\"qqq111\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
-    },
     {
       "key": "csp_XYQHikerAL_云盘资源",
       "name": "📀云盘资源(搜索)",
@@ -1597,16 +1567,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-  {
-      "key": "csp_XYQHikerdyx",
-      "name": "🎢┃港湾蓝光┃",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/电影港.json"
     },
      {
       "key": "csp_星辰",
