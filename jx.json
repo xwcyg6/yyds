@@ -2102,15 +2102,16 @@
       "key": "drpy_js_蜻蜓FM",
       "name": "FM┃蜻蜓",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/蜻蜓FM.js"
+      "ext": "
+https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/refs/heads/main/js/%E8%9C%BB%E8%9C%93FM.js"
     },
      {
       "key": "drpy_js_广播迷FM",
       "name": "FM┃广播迷",
       "type": 3,
-      "api": "./drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "changeable": 0,
       "ext": "./js/广播迷FM.js"
     },
