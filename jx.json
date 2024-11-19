@@ -82,6 +82,17 @@
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/caigou.js"
     },
+    {
+      "key": "哔嘀影视",
+      "name": "哔嘀影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/XBPQ.jar",
+      "ext": {
+        "分类url": "https://damihub.life/vodshow/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}.html",
+        "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi"
+      }
+    },
       {
       "key": "csp_XYQHikerdyx",
       "name": "🎢┃港湾蓝光┃",
