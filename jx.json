@@ -2104,8 +2104,7 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "changeable": 0,
-      "ext": "
-https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/refs/heads/main/js/%E8%9C%BB%E8%9C%93FM.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/refs/heads/main/js/%E8%9C%BB%E8%9C%93FM.js"
     },
      {
       "key": "drpy_js_广播迷FM",
@@ -2113,7 +2112,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/refs/head
       "type": 3,
       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "changeable": 0,
-      "ext": "./js/广播迷FM.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/refs/heads/main/js/%E5%B9%BF%E6%92%AD%E8%BF%B7FM.js"
     },
     {
       "key": "drpy_js_有声小说吧",
