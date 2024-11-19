@@ -32,7 +32,7 @@
       "name": "📀┃网盘┃配置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/set.jar;md5;F5673F838EAEAF14CD986E10053CCB2B",
+      "jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/jar/set.jar;md5;F5673F838EAEAF14CD986E10053CCB2B",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
@@ -107,17 +107,7 @@
         ]
       }
     },
-    {
-      "key": "多多影音备用",
-      "name": "👲┃多多┃JS",
-      "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/多多影音.js"
-    },
-        {
+ {
       "key": "玩偶gg",
       "name": "💂┃饭硬┃玩偶",
       "type": 3,
