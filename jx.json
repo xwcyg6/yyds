@@ -110,21 +110,6 @@
       "api": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/drpy2.min.js",
       "ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/js/jianpian.js"
     },
-       {
-      "key": "大米",
-      "name": "大米",
-      "type": 3,
-      "api": "csp_XBPQ",
-       "jar": "./jar/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "播放数组": "<div class=\"module-play-list-content  module-play-list-base\">&&</div>",
-        "分类url": "https://damihub.life/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": ":"电影$20#电视剧$21#动漫$22#综艺$23"
-      }
-    },
     {
       "key": "多多影音",
       "name": "👲┃多多┃影音",
