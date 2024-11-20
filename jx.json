@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xwcyg6/yyds/refs/heads/main/花千骨.jar",
+  "spider": "./花千骨.jar",
   "lives": [
        {
       "name": "live",
