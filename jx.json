@@ -47,6 +47,7 @@
       "filterable": 0,
       "type_flag": 0
     },
+    {"key":"csp_XBPQ_一个G影视","name":"🌇一个G影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":1,"jar": "./jar/XBPQ.jar","ext":{"免嗅": "1","线路数组": "<div class=\"module-tab-item tab-item&&</div>","线路标题": "<span>&&</small>[替换:</span><small>>>共]+集","播放数组": "module-play-list\">&&</div>","播放列表": "<a&&</a >","播放标题": ">&&</span>","播放链接": "href=\"&&\"", "副标题":"module-item-note\">&&</div>","搜索url":"https://www.ygg01.com/vodsearch/{wd}-------------.html","搜索模式": "1", "分类url":"https://www.ygg01.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#今日更新$https://www.ygg01.com/label/new.html"}},
     {"key": "csp_xBPQ_厂长资源","name": "🎬厂长资源","type": 3,        "changeable": 1,"searchable": 1, "quickSearch": 0, "filterable": 1, "api": "csp_XBPQ","ext":"./json/厂长资源.txt","jar":"./jar/XBPQ.jar"}, 
     {
       "key": "drpy_js_奇珍异兽",
