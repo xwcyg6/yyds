@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./xyqxbpq.jar",
+  "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/main/xyqxbpq.jar",
   "lives": [
        {
       "name": "live",
