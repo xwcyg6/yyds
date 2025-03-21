@@ -2010,30 +2010,6 @@
       "type": 3,
       "url": "Web"
     },
- {
-      "name": "🌾星盛解析🌾",
-      "type": 1,
-      "url": "http://json.33191.com/home/api?type=ys&uid=3022385&key=dklmorvxABDKNOTW45&url="
-    },
-    {
-      "name": "Pro",
-      "type": 1,
-      "url": "http://api.vip123kan.vip/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
         {
       "name": "1080解析1",
       "type": 1,
