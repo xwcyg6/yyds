@@ -76,6 +76,50 @@
       "api": "./drpy2.min.js",
       "ext": "./js/caigou.js"
     },
+     {
+            "key": "py_优",
+            "name": "py_优｜PY",
+            "type": 3,
+            "api": "./PY/py_优.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+         {
+            "key": "py_腾",
+            "name": "py_腾｜PY",
+            "type": 3,
+            "api": "./PY/py_腾.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_芒",
+            "name": "py_芒｜PY",
+            "type": 3,
+            "api": "./PY/py_芒.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+          {
+            "key": "py_爱",
+            "name": "py_爱｜PY",
+            "type": 3,
+            "api": "./PY/py_爱.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
    {
       "key": "哔嘀影视",
       "name": "哔嘀影视",
